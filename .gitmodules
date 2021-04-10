@@ -1,0 +1,3 @@
+[submodule "remote/go-datastructures"]
+	path = remote/go-datastructures
+	url = git@github.com:Workiva/go-datastructures.git
