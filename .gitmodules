@@ -1,3 +1,12 @@
 [submodule "remote/go-datastructures"]
-	path = remote/go-datastructures
+	path = remote/workiva-data-structures
 	url = git@github.com:Workiva/go-datastructures.git
+[submodule "remote/go-data-structures"]
+	path = remote/dorin131-data-structures
+	url = https://github.com/dorin131/go-data-structures
+[submodule "remote/go-algorithms"]
+	path = remote/dorin131-algorithms
+	url = git@github.com:dorin131/go-algorithms.git
+[submodule "remote/0xAX-algorithms"]
+	path = remote/0xAX-algorithms
+	url = git@github.com:0xAX/go-algorithms.git
